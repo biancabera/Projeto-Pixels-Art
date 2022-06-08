@@ -1,0 +1,47 @@
+/* configuração dos blocos acima */
+.color { 
+    padding: 50px;
+    margin-inline-start: 20px;
+    display: inline-block;
+    border: 1px solid black
+}
+/* body */
+body { 
+    display: inline-block;
+}
+/* configuração dos blocos brancos */
+#pixel-board { 
+    margin-top: 50px;
+    width: 700px;
+    
+}
+
+.pixel { 
+    height: 40px;
+    width: 40px;
+    padding: 40px;
+    display: inline-block;
+    border: 1px solid black;
+    background-color: white;
+
+}
+/* Cores dos blocos */
+#black { 
+    background-color: black;
+}
+
+#petali { 
+    background-color: rgb(255, 189, 103);
+}
+
+#adore { 
+    background-color: rgb(103, 160, 141);
+}
+
+#red { 
+    background-color: rgb(242, 29, 33)
+}
+#clear-board { 
+    margin-top: 10px;
+    background-color: white;
+}
